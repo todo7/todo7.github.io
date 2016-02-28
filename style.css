@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(100, 150, 150);;
+}
+
+h1 {
+  color: rgb(255,150,50);
+  text-align:center;
+}
+
+p {
+  color: rgb(50,200,200);
+  text-align:center;
+}
+
+.page{
+  background-color: white;
+  box-shadow: 12px 0 14px -4px rgba(31,73,125, 0.8), -12px 0 8px -4px rgba(31,73,125, 0.8);
+}
